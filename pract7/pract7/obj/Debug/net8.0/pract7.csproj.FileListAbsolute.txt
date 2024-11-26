@@ -1,0 +1,14 @@
+C:\Users\BUKI\source\repos\pract7\pract7\bin\Debug\net8.0\pract7.exe
+C:\Users\BUKI\source\repos\pract7\pract7\bin\Debug\net8.0\pract7.deps.json
+C:\Users\BUKI\source\repos\pract7\pract7\bin\Debug\net8.0\pract7.runtimeconfig.json
+C:\Users\BUKI\source\repos\pract7\pract7\bin\Debug\net8.0\pract7.dll
+C:\Users\BUKI\source\repos\pract7\pract7\bin\Debug\net8.0\pract7.pdb
+C:\Users\BUKI\source\repos\pract7\pract7\obj\Debug\net8.0\pract7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUKI\source\repos\pract7\pract7\obj\Debug\net8.0\pract7.AssemblyInfoInputs.cache
+C:\Users\BUKI\source\repos\pract7\pract7\obj\Debug\net8.0\pract7.AssemblyInfo.cs
+C:\Users\BUKI\source\repos\pract7\pract7\obj\Debug\net8.0\pract7.csproj.CoreCompileInputs.cache
+C:\Users\BUKI\source\repos\pract7\pract7\obj\Debug\net8.0\pract7.dll
+C:\Users\BUKI\source\repos\pract7\pract7\obj\Debug\net8.0\refint\pract7.dll
+C:\Users\BUKI\source\repos\pract7\pract7\obj\Debug\net8.0\pract7.pdb
+C:\Users\BUKI\source\repos\pract7\pract7\obj\Debug\net8.0\pract7.genruntimeconfig.cache
+C:\Users\BUKI\source\repos\pract7\pract7\obj\Debug\net8.0\ref\pract7.dll
